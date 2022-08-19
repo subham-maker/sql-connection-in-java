@@ -1,0 +1,12 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "mysql-connector-java-8.0.28.jar"
+    ],
+    "files.associations": {
+        "PATHMAT.C": "cpp",
+        "TAILREC.C": "cpp",
+        "MODIWARS.C": "cpp",
+        "SHELL.C": "cpp"
+    }
+}
